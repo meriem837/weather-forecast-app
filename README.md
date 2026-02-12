@@ -2,7 +2,7 @@
 
 A **weather forecast web application** that displays real-time weather data and a 5-day forecast using the SheCodes Weather API. This project is the **final project** for the SheCodes Intermediate course.
 
-![Weather App Screenshot](Assets/Screenshots/screenshot.png)
+![Weather App Screenshot](assets/screenshots/your-screenshot.png)
 
 ## Features
 
